@@ -1,0 +1,14 @@
+@font-face {
+    font-family: sfpro;
+    src: url(./fonts/SFPRODISPLAYREGULAR.OTF);
+}
+
+@font-face {
+    font-family: sfprom;
+    src: url(./fonts/SFPRODISPLAYMEDIUM.OTF);
+}
+
+@font-face {
+    font-family: sfprob;
+    src: url(./fonts/SFPRODISPLAYBOLD.OTF);
+}
